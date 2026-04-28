@@ -96,5 +96,5 @@ ax.set_xlabel('Redshift $z$')
 ax.set_ylabel('Equation of state $w(z)$')
 ax.legend();  ax.grid(True, alpha=0.3)
 plt.tight_layout()
-plt.savefig('wz_crt_v91.pdf')
+plt.savefig('wz_crt_v91.png')
 
