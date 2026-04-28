@@ -51,3 +51,6 @@ Run the main solver to execute the simulation and display the results:
 
 ```bash
 python crt_solver_v91.py
+
+<img width="956" height="434" alt="Captura de pantalla 2026-04-28 a la(s) 11 48 38 a  m" src="https://github.com/user-attachments/assets/6e130672-29b7-4d61-bb41-e67d1dc3605e" />
+
