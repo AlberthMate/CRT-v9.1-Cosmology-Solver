@@ -44,4 +44,4 @@ To run the simulations, you will need **Python 3.8+** and the following scientif
     ```
 
 ---
-
+![CRT v9.1 Results](img/crt_v91_results.png)
